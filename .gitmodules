@@ -1,0 +1,3 @@
+[submodule "EPCKit"]
+	path = EPCKit
+	url = https://evertoncunha@github.com/evertoncunha/EPCKit.git

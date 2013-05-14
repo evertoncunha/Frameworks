@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HockeySDK Documentation.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>HockeySDK Framework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>HockeySDK.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>HockeySDKResources.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1E4F61E91621AD970033EFC5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1E5954CB15B6F24A00A03429</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1E59550915B6F45800A03429</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1E8E66AD15BC3D7700632A2E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
