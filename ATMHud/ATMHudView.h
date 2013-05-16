@@ -80,6 +80,5 @@ typedef enum {
 - (void)reset;
 - (void)update;
 - (void)hide;
-- (void)reset;
 
 @end
