@@ -244,10 +244,14 @@
 
 #pragma mark -
 #pragma mark Controlling
+
 - (void)show {
 	if (!_isShowing) {
 		_isShowing = YES;
 		[__view show];
+		if (!self.allowSuperviewInteraction) {
+			self.view.superview.userInteractionEnabled = NO;
+		}
 	}
 }
 
